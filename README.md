@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" alt="Murmaider227 — Software Engineering, DevOps, Platform, and Data" width="100%" />
+<img src="./assets/hero.svg?v=2" alt="Murmaider227 — Software Engineering, DevOps, Platform, and Data" width="100%" />
 
 ### Experienced Software Engineer & DevOps Engineer
 
@@ -41,33 +41,7 @@ Architecture → implementation → delivery → monitoring → continuous impro
 
 <div align="center">
 
-### Languages & application development
-
-![Python](https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=22D3EE)
-![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=flat-square&logo=typescript&logoColor=22D3EE)
-![JavaScript](https://img.shields.io/badge/JavaScript-0F172A?style=flat-square&logo=javascript&logoColor=22D3EE)
-![Swift](https://img.shields.io/badge/Swift-0F172A?style=flat-square&logo=swift&logoColor=22D3EE)
-![Rust](https://img.shields.io/badge/Rust-0F172A?style=flat-square&logo=rust&logoColor=22D3EE)
-![Lua](https://img.shields.io/badge/Lua-0F172A?style=flat-square&logo=lua&logoColor=22D3EE)
-![Dart](https://img.shields.io/badge/Dart-0F172A?style=flat-square&logo=dart&logoColor=22D3EE)
-
-### DevOps & infrastructure
-
-![Linux](https://img.shields.io/badge/Linux-0F172A?style=flat-square&logo=linux&logoColor=22D3EE)
-![Docker](https://img.shields.io/badge/Docker-0F172A?style=flat-square&logo=docker&logoColor=22D3EE)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0F172A?style=flat-square&logo=kubernetes&logoColor=22D3EE)
-![Nginx](https://img.shields.io/badge/Nginx-0F172A?style=flat-square&logo=nginx&logoColor=22D3EE)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0F172A?style=flat-square&logo=githubactions&logoColor=22D3EE)
-![Terraform](https://img.shields.io/badge/Terraform-0F172A?style=flat-square&logo=terraform&logoColor=22D3EE)
-![Prometheus](https://img.shields.io/badge/Prometheus-0F172A?style=flat-square&logo=prometheus&logoColor=22D3EE)
-![Grafana](https://img.shields.io/badge/Grafana-0F172A?style=flat-square&logo=grafana&logoColor=22D3EE)
-
-### Databases & data stores
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0F172A?style=flat-square&logo=postgresql&logoColor=22D3EE)
-![MySQL](https://img.shields.io/badge/MySQL-0F172A?style=flat-square&logo=mysql&logoColor=22D3EE)
-![MongoDB](https://img.shields.io/badge/MongoDB-0F172A?style=flat-square&logo=mongodb&logoColor=22D3EE)
-![Redis](https://img.shields.io/badge/Redis-0F172A?style=flat-square&logo=redis&logoColor=22D3EE)
+<img src="./assets/tech-stack.svg?v=1" alt="Technology stack: languages, platform and DevOps, databases and data stores" width="100%" />
 
 </div>
 
