@@ -49,6 +49,11 @@ Architecture → implementation → delivery → monitoring → continuous impro
 
 | Project | What it is | Stack |
 |:--|:--|:--:|
+| [BackupProof](https://github.com/murmaider227/backup-proof) | PostgreSQL backup verifier with archive inspection and restore-oriented workflow | Python |
+| [Uptime Pulse](https://github.com/murmaider227/uptime-pulse) | Small HTTP and SSL monitor with Prometheus-compatible metrics and optional alerts | Python |
+| [QueueGuard](https://github.com/murmaider227/queue-guard) | Redis-backed job queue with retries and a dead-letter queue | Python |
+| [kube-drift](https://github.com/murmaider227/kube-drift) | Read-only Kubernetes manifest drift checker for common workloads | Python |
+| [Nginx Lens](https://github.com/murmaider227/nginx-lens) | Dependency-free access-log analyzer with status and percentile summaries | Python |
 | [NovaInstanceTracker-Sirus](https://github.com/murmaider227/NovaInstanceTracker-Sirus) | Dungeon, XP, mob, gold, and instance-limit tracker adapted for Sirus / WotLK 3.3.5a | Lua |
 | [telegram-rust](https://github.com/murmaider227/telegram-rust) | Telegram project built in Rust | Rust |
 | [Railway Puzzle](https://github.com/murmaider227/railway-puzzle-privacy-policy) | Public privacy and support pages for an iOS puzzle game | HTML |
