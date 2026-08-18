@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">Murmaider227 technical toolkit</title>
+  <desc id="desc">Languages, platform and DevOps tools, databases, and data stores in a terminal-inspired visual system.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#070B12"/>
+      <stop offset=".58" stop-color="#0B1120"/>
+      <stop offset="1" stop-color="#11112A"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#22D3EE"/>
+      <stop offset=".5" stop-color="#34D399"/>
+      <stop offset="1" stop-color="#8B5CF6"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#94A3B8" stroke-opacity=".028"/>
+    </pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="420" rx="18" fill="url(#bg)"/>
+  <rect x=".75" y=".75" width="1198.5" height="418.5" rx="17.25" fill="url(#grid)" stroke="#334155" stroke-width="1.5"/>
+  <rect x="1" y="1" width="1198" height="4" rx="2" fill="url(#line)"/>
+
+  <g font-family="'Cascadia Code','SFMono-Regular',Consolas,monospace">
+    <circle cx="32" cy="35" r="4.5" fill="#FB7185"/>
+    <circle cx="48" cy="35" r="4.5" fill="#FBBF24"/>
+    <circle cx="64" cy="35" r="4.5" fill="#34D399"/>
+    <text x="89" y="40" fill="#94A3B8" font-size="13">stack@murmaider227: ~/toolkit</text>
+    <text x="1168" y="40" text-anchor="end" fill="#475569" font-size="11">19 capabilities loaded</text>
+
+    <text x="44" y="84" fill="#22D3EE" font-size="14" font-weight="700">$</text>
+    <text x="64" y="84" fill="#CBD5E1" font-size="13" letter-spacing="1.5">LANGUAGES &amp; APPLICATION DEVELOPMENT</text>
+    <path d="M395 79H1156" stroke="#273449"/>
+
+    <g font-size="13.5" font-weight="700" text-anchor="middle">
+      <rect x="124" y="99" width="140" height="42" rx="8" fill="#0F172A" stroke="#22D3EE" stroke-opacity=".72"/>
+      <text x="194" y="125" fill="#E2E8F0">PYTHON</text>
+      <rect x="278" y="99" width="168" height="42" rx="8" fill="#0F172A" stroke="#8B5CF6" stroke-opacity=".72"/>
+      <text x="362" y="125" fill="#E2E8F0">TYPESCRIPT</text>
+      <rect x="460" y="99" width="160" height="42" rx="8" fill="#0F172A" stroke="#22D3EE" stroke-opacity=".72"/>
+      <text x="540" y="125" fill="#E2E8F0">JAVASCRIPT</text>
+      <rect x="634" y="99" width="108" height="42" rx="8" fill="#0F172A" stroke="#8B5CF6" stroke-opacity=".72"/>
+      <text x="688" y="125" fill="#E2E8F0">SWIFT</text>
+      <rect x="756" y="99" width="102" height="42" rx="8" fill="#0F172A" stroke="#22D3EE" stroke-opacity=".72"/>
+      <text x="807" y="125" fill="#E2E8F0">RUST</text>
+      <rect x="872" y="99" width="86" height="42" rx="8" fill="#0F172A" stroke="#8B5CF6" stroke-opacity=".72"/>
+      <text x="915" y="125" fill="#E2E8F0">LUA</text>
+      <rect x="972" y="99" width="104" height="42" rx="8" fill="#0F172A" stroke="#22D3EE" stroke-opacity=".72"/>
+      <text x="1024" y="125" fill="#E2E8F0">DART</text>
+    </g>
+
+    <text x="44" y="181" fill="#34D399" font-size="14" font-weight="700">$</text>
+    <text x="64" y="181" fill="#CBD5E1" font-size="13" letter-spacing="1.5">PLATFORM &amp; DEVOPS</text>
+    <path d="M248 176H1156" stroke="#273449"/>
+
+    <g font-size="13.5" font-weight="700" text-anchor="middle">
+      <rect x="244" y="196" width="140" height="42" rx="8" fill="#0F172A" stroke="#34D399" stroke-opacity=".72"/>
+      <text x="314" y="222" fill="#E2E8F0">LINUX</text>
+      <rect x="398" y="196" width="146" height="42" rx="8" fill="#0F172A" stroke="#22D3EE" stroke-opacity=".72"/>
+      <text x="471" y="222" fill="#E2E8F0">DOCKER</text>
+      <rect x="558" y="196" width="182" height="42" rx="8" fill="#0F172A" stroke="#8B5CF6" stroke-opacity=".72"/>
+      <text x="649" y="222" fill="#E2E8F0">KUBERNETES</text>
+      <rect x="754" y="196" width="140" height="42" rx="8" fill="#0F172A" stroke="#34D399" stroke-opacity=".72"/>
+      <text x="824" y="222" fill="#E2E8F0">NGINX</text>
+
+      <rect x="226" y="250" width="220" height="42" rx="8" fill="#0F172A" stroke="#22D3EE" stroke-opacity=".72"/>
+      <text x="336" y="276" fill="#E2E8F0">GITHUB ACTIONS</text>
+      <rect x="460" y="250" width="160" height="42" rx="8" fill="#0F172A" stroke="#8B5CF6" stroke-opacity=".72"/>
+      <text x="540" y="276" fill="#E2E8F0">TERRAFORM</text>
+      <rect x="634" y="250" width="180" height="42" rx="8" fill="#0F172A" stroke="#34D399" stroke-opacity=".72"/>
+      <text x="724" y="276" fill="#E2E8F0">PROMETHEUS</text>
+      <rect x="828" y="250" width="146" height="42" rx="8" fill="#0F172A" stroke="#22D3EE" stroke-opacity=".72"/>
+      <text x="901" y="276" fill="#E2E8F0">GRAFANA</text>
+    </g>
+
+    <text x="44" y="331" fill="#8B5CF6" font-size="14" font-weight="700">$</text>
+    <text x="64" y="331" fill="#CBD5E1" font-size="13" letter-spacing="1.5">DATABASES &amp; DATA STORES</text>
+    <path d="M333 326H1156" stroke="#273449"/>
+
+    <g font-size="13.5" font-weight="700" text-anchor="middle">
+      <rect x="258" y="346" width="170" height="42" rx="8" fill="#0F172A" stroke="#8B5CF6" stroke-opacity=".72"/>
+      <text x="343" y="372" fill="#E2E8F0">POSTGRESQL</text>
+      <rect x="442" y="346" width="140" height="42" rx="8" fill="#0F172A" stroke="#22D3EE" stroke-opacity=".72"/>
+      <text x="512" y="372" fill="#E2E8F0">MYSQL</text>
+      <rect x="596" y="346" width="170" height="42" rx="8" fill="#0F172A" stroke="#34D399" stroke-opacity=".72"/>
+      <text x="681" y="372" fill="#E2E8F0">MONGODB</text>
+      <rect x="780" y="346" width="140" height="42" rx="8" fill="#0F172A" stroke="#8B5CF6" stroke-opacity=".72"/>
+      <text x="850" y="372" fill="#E2E8F0">REDIS</text>
+    </g>
+  </g>
+
+  <circle cx="1158" cy="406" r="3" fill="#34D399" filter="url(#glow)"/>
+  <text x="1146" y="409" text-anchor="end" fill="#64748B" font-family="'Cascadia Code','SFMono-Regular',Consolas,monospace" font-size="10">READY</text>
+</svg>
