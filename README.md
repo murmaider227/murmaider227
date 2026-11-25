@@ -1,62 +1,30 @@
-<div align="center">
+### Software Engineer & DevOps Engineer
 
-<img src="./assets/hero.svg?v=2" alt="Murmaider227 — Software Engineering, DevOps, Platform, and Data" width="100%" />
+I write backend services, automation and desktop software, and run them on Linux, Docker and Kubernetes with CI/CD and monitoring.
 
-### Experienced Software Engineer & DevOps Engineer
+[![Telegram](https://img.shields.io/badge/Telegram-murmaider227-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/murmaider227)
 
-I build and operate production-ready software — from backend services and automation to CI/CD, container platforms, observability, and data systems.
+## Featured project
 
-I take ideas from architecture to production and keep them reliable after launch.
+### [Rustgram](https://github.com/murmaider227/rustgram): a Telegram desktop client written entirely in Rust
 
-[![Telegram](https://img.shields.io/badge/Telegram-0F172A?style=flat-square&logo=telegram&logoColor=22D3EE)](https://t.me/murmaider227)
+<a href="https://github.com/murmaider227/rustgram"><img src="https://raw.githubusercontent.com/murmaider227/rustgram/main/assets/screenshots/main.png" alt="Rustgram main window" width="760"></a>
 
-</div>
+A port of Telegram Desktop without TDLib, Qt or C++. The network protocol, encryption, sync engine, local storage and interface are all Rust.
 
-## What I bring
+- **Protocol and crypto:** MTProto 2.0 with perfect forward secrecy, AES-IGE and AES-CTR, RSA and Diffie-Hellman key exchange, SRP two-step verification, MTProxy.
+- **Interface:** native egui UI that follows Telegram Desktop's layout, themes and animations.
+- **Testing:** over 2,000 tests, including conformance suites that replay MTProto sessions byte for byte, and live runs on Telegram's test servers.
+- **Status:** pre-release, Windows 10 and 11.
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3>Software engineering</h3>
-Backend systems, automation, bots, web and mobile apps, and game tooling.
-</td>
-<td width="50%" valign="top">
-<h3>Platform & DevOps</h3>
-CI/CD, containers, orchestration, infrastructure as code, observability, and production operations.
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>Data systems</h3>
-Relational, document, and in-memory data stores with pragmatic data modeling.
-</td>
-<td width="50%" valign="top">
-<h3>End-to-end ownership</h3>
-Architecture → implementation → delivery → monitoring → continuous improvement.
-</td>
-</tr>
-</table>
+## What I work on
 
-## Technical toolkit
+- **Backend and automation:** services, bots, integrations and internal tools.
+- **Desktop and mobile apps:** native clients and small games.
+- **Infrastructure and delivery:** containers and Kubernetes, infrastructure as code, CI/CD pipelines, metrics and alerting.
 
-<div align="center">
+## Stack
 
-<img src="./assets/tech-stack.svg?v=1" alt="Technology stack: languages, platform and DevOps, databases and data stores" width="100%" />
-
-</div>
-
-## Selected work
-
-| Project | What it is | Stack |
-|:--|:--|:--:|
-| [Rustgram](https://github.com/murmaider227/rustgram) | Telegram desktop client written entirely in Rust: MTProto, crypto, sync, storage and UI | Rust |
-
-<div align="center">
-
-[**Explore my repositories →**](https://github.com/murmaider227?tab=repositories)
-
-<br />
-
-<sub>Build reliable systems · Automate repetitive work · Observe what matters</sub>
-
-</div>
+- **Languages:** Python · Rust · TypeScript · JavaScript · Swift · Dart · Lua
+- **Platform and DevOps:** Linux · Docker · Kubernetes · Nginx · GitHub Actions · Terraform · Prometheus · Grafana
+- **Data stores:** PostgreSQL · MySQL · MongoDB · Redis
